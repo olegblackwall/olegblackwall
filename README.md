@@ -1,7 +1,8 @@
-<div id="header" align="center">
+<div id="header">
     <h1>
       Hi there :call_me_hand::skull:
     </h1>
+    <img src="https://komarev.com/ghpvc/?username=olegblackwall&style=flat-square&color=blue" alt=""/>
     <h2>
       Social
     </h2>
@@ -17,8 +18,9 @@
       <img src="https://img.shields.io/badge/instagram-blue?logo=instagram&logoColor=white&style=for-the-badge" alt="ig"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=olegblackwall&style=flat-square&color=blue" alt=""/>
-  <h3>:hammer_and_wrench: Languages and Tools :</h3>
+  <h3>
+      :hammer_and_wrench: Languages and Tools :
+  </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
